@@ -9,6 +9,13 @@
             "database": "maximbabichev",
             "username": "postgres",
             "password": ""
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "SQLite",
+            "database": "/Users/maximbabichev/Library/DBeaverData/workspace6/.metadata/sample-database-sqlite-1/Chinook.db"
         }
-    ]
+    ],
+    "sqltools.useNodeRuntime": true
 }
